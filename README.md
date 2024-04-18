@@ -1,3 +1,3 @@
-# Socket Server Basico
+# aplicacion de colas
 
-Un servidor de Websockets usando Node, Express y Socket.io
+Un servidor de aplicacion de colas usando Node, Express y Socket.io
